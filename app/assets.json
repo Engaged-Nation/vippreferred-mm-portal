@@ -18,12 +18,6 @@
                     "vendor/engaged-nation/portal-core/FrontEnd/Resources/public/less/vendor/lbxgrid-no-namespace.less"
                 ],
                 "output": "www/css/admin/lbxgrid.css"
-            },
-            {
-                "files": [
-                    "vendor/engaged-nation/portal-core/Legacy/public/embed/fzone/contents/includes/brackets/assets/less/index.less"
-                ],
-                "output": "www/css/fzone/brackets.css"
             }
         ]
     },
