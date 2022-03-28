@@ -259,14 +259,9 @@ fzone:
   #
   myvouchers:
     header: ""
-    bodycopy: "View your active prizes and redeem them by displaying this page on a mobile device to a Players Club
-      representative before the expiration date.  You can also download and display the voucher PDF to a Players Club
-      representative on your mobile device, or you can print it out and bring it with you."
+    bodycopy: "View your rewards and redeem them by reading the instructions on your voucher."
     details: "<p><span class=\"goGold\">Player Name</span>: %issuedTo%</p>
-      <p><span class=\"goGold\">Players Card Number</span>: %playerscard%</p>
-      <p><span class=\"goGold\">Email Address</span>: %email%</p>
       <p><span class=\"goGold\">Date Issued</span>: %issued_date%</p>
-      <p><span class=\"goGold\">Expiration Date</span>: %expire_date%</p>
       <p><span class=\"goGold\">Voucher Id</span>: %vid%</p>
       <p><span class=\"goGold\">Description</span>: %description%</p>
       <p><span class=\"goGold\">Legal</span>: %legal%</p>"
